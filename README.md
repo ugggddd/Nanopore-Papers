@@ -1,6 +1,6 @@
 # Nanopore-Papers
 
-- [Basecaller] (#basecaller)
+- [Basecaller](#basecaller)
 
 ## Basecaller
 
